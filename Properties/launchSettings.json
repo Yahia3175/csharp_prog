@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "csharp_prog (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "csharp_prog (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
